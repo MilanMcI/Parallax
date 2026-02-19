@@ -1,0 +1,5616 @@
+fileFormatVersion: 2
+guid: c80f7ab4cca12294681feb120dc358ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 83019348351251406
+    second: Bluey-IceAssets_0
+  - first:
+      213: -3070782155223509294
+    second: Bluey-IceAssets_1
+  - first:
+      213: -6769634254604551847
+    second: Bluey-IceAssets_2
+  - first:
+      213: -1820183708117517506
+    second: Bluey-IceAssets_3
+  - first:
+      213: -5278566831400311369
+    second: Bluey-IceAssets_4
+  - first:
+      213: 6506201108134726965
+    second: Bluey-IceAssets_5
+  - first:
+      213: -5731793570069919795
+    second: Bluey-IceAssets_6
+  - first:
+      213: -1010653380673555966
+    second: Bluey-IceAssets_7
+  - first:
+      213: -3884784537685448197
+    second: Bluey-IceAssets_8
+  - first:
+      213: 7437822466801655005
+    second: Bluey-IceAssets_9
+  - first:
+      213: -2316146770454441368
+    second: Bluey-IceAssets_10
+  - first:
+      213: -7673979479556396982
+    second: Bluey-IceAssets_11
+  - first:
+      213: 742143649413384636
+    second: Bluey-IceAssets_12
+  - first:
+      213: 6720445250139773927
+    second: Bluey-IceAssets_13
+  - first:
+      213: -6725409167940288
+    second: Bluey-IceAssets_14
+  - first:
+      213: -3868092219710824613
+    second: Bluey-IceAssets_15
+  - first:
+      213: 3452760400849553369
+    second: Bluey-IceAssets_16
+  - first:
+      213: -6940463577951118663
+    second: Bluey-IceAssets_17
+  - first:
+      213: 2050697055636511274
+    second: Bluey-IceAssets_18
+  - first:
+      213: -4634206504545336360
+    second: Bluey-IceAssets_19
+  - first:
+      213: -975952794914165287
+    second: Bluey-IceAssets_20
+  - first:
+      213: -1685661268619539476
+    second: Bluey-IceAssets_21
+  - first:
+      213: -643520551103876113
+    second: Bluey-IceAssets_22
+  - first:
+      213: -6874392269756261575
+    second: Bluey-IceAssets_23
+  - first:
+      213: -4864555420194537676
+    second: Bluey-IceAssets_24
+  - first:
+      213: 4986490270734494179
+    second: Bluey-IceAssets_25
+  - first:
+      213: -4637212967991487669
+    second: Bluey-IceAssets_26
+  - first:
+      213: -3314022580604304345
+    second: Bluey-IceAssets_27
+  - first:
+      213: -7131313330845969738
+    second: Bluey-IceAssets_28
+  - first:
+      213: -8011563374154502366
+    second: Bluey-IceAssets_29
+  - first:
+      213: -7635990006982691783
+    second: Bluey-IceAssets_30
+  - first:
+      213: -8324998451316323984
+    second: Bluey-IceAssets_31
+  - first:
+      213: -8584009117676201331
+    second: Bluey-IceAssets_32
+  - first:
+      213: 1497177025879025535
+    second: Bluey-IceAssets_33
+  - first:
+      213: 2586070028459778220
+    second: Bluey-IceAssets_34
+  - first:
+      213: 6936881539243619921
+    second: Bluey-IceAssets_35
+  - first:
+      213: 2838425064591939250
+    second: Bluey-IceAssets_36
+  - first:
+      213: -191587779025619676
+    second: Bluey-IceAssets_37
+  - first:
+      213: 4763121849645560170
+    second: Bluey-IceAssets_38
+  - first:
+      213: -1713933100828262601
+    second: Bluey-IceAssets_39
+  - first:
+      213: -8551677016972459990
+    second: Bluey-IceAssets_40
+  - first:
+      213: -2306504309178307994
+    second: Bluey-IceAssets_41
+  - first:
+      213: 754775361031248376
+    second: Bluey-IceAssets_42
+  - first:
+      213: 390730167743075799
+    second: Bluey-IceAssets_43
+  - first:
+      213: 4997991572584375422
+    second: Bluey-IceAssets_44
+  - first:
+      213: -5140342046182498411
+    second: Bluey-IceAssets_45
+  - first:
+      213: -1054505379295951264
+    second: Bluey-IceAssets_46
+  - first:
+      213: -6557707705943139624
+    second: Bluey-IceAssets_47
+  - first:
+      213: 1898677003748522244
+    second: Bluey-IceAssets_48
+  - first:
+      213: -7932404773244674570
+    second: Bluey-IceAssets_49
+  - first:
+      213: -3731820450553333926
+    second: Bluey-IceAssets_50
+  - first:
+      213: -8208177230569442089
+    second: Bluey-IceAssets_51
+  - first:
+      213: -7167529050348673373
+    second: Bluey-IceAssets_52
+  - first:
+      213: -412233160878344622
+    second: Bluey-IceAssets_53
+  - first:
+      213: -6316461830202777811
+    second: Bluey-IceAssets_54
+  - first:
+      213: 2266424128846991770
+    second: Bluey-IceAssets_55
+  - first:
+      213: -4078879796097486476
+    second: Bluey-IceAssets_56
+  - first:
+      213: 1238861244198505041
+    second: Bluey-IceAssets_57
+  - first:
+      213: -8060218224072957215
+    second: Bluey-IceAssets_58
+  - first:
+      213: -5283229215606436150
+    second: Bluey-IceAssets_59
+  - first:
+      213: -5621040424039800740
+    second: Bluey-IceAssets_60
+  - first:
+      213: 2079041283009864012
+    second: Bluey-IceAssets_61
+  - first:
+      213: 1922903325069920755
+    second: Bluey-IceAssets_62
+  - first:
+      213: 475156624173303755
+    second: Bluey-IceAssets_63
+  - first:
+      213: 6161927768864450278
+    second: Bluey-IceAssets_64
+  - first:
+      213: -7405272442832804951
+    second: Bluey-IceAssets_65
+  - first:
+      213: 8095317621198726044
+    second: Bluey-IceAssets_66
+  - first:
+      213: 9027072804191968945
+    second: Bluey-IceAssets_67
+  - first:
+      213: -3965266356383423071
+    second: Bluey-IceAssets_68
+  - first:
+      213: -2473348528955568128
+    second: Bluey-IceAssets_69
+  - first:
+      213: 1756165778012894453
+    second: Bluey-IceAssets_70
+  - first:
+      213: 1392754655194145149
+    second: Bluey-IceAssets_71
+  - first:
+      213: 9200941483455665012
+    second: Bluey-IceAssets_72
+  - first:
+      213: -8731065534418390916
+    second: Bluey-IceAssets_73
+  - first:
+      213: -3119763398982348202
+    second: Bluey-IceAssets_74
+  - first:
+      213: -7606412760941171140
+    second: Bluey-IceAssets_75
+  - first:
+      213: 9006921217284281389
+    second: Bluey-IceAssets_76
+  - first:
+      213: -1522101028338730865
+    second: Bluey-IceAssets_77
+  - first:
+      213: -8349066642191423440
+    second: Bluey-IceAssets_78
+  - first:
+      213: -2027295822535193748
+    second: Bluey-IceAssets_79
+  - first:
+      213: 6244678663501726916
+    second: Bluey-IceAssets_80
+  - first:
+      213: 5617388785222988800
+    second: Bluey-IceAssets_81
+  - first:
+      213: 7171672091664013683
+    second: Bluey-IceAssets_82
+  - first:
+      213: -5814142633960296339
+    second: Bluey-IceAssets_83
+  - first:
+      213: 6578015684941691849
+    second: Bluey-IceAssets_84
+  - first:
+      213: 3927476234809085683
+    second: Bluey-IceAssets_85
+  - first:
+      213: 2090345592908880329
+    second: Bluey-IceAssets_86
+  - first:
+      213: -1665454670165257555
+    second: Bluey-IceAssets_87
+  - first:
+      213: -1650015308018073251
+    second: Bluey-IceAssets_88
+  - first:
+      213: 2916727885442118215
+    second: Bluey-IceAssets_89
+  - first:
+      213: -6398542161889310644
+    second: Bluey-IceAssets_90
+  - first:
+      213: 6289079117878790432
+    second: Bluey-IceAssets_91
+  - first:
+      213: -2842175722781027106
+    second: Bluey-IceAssets_92
+  - first:
+      213: -7935759437110360410
+    second: Bluey-IceAssets_93
+  - first:
+      213: 2403865297289034031
+    second: Bluey-IceAssets_94
+  - first:
+      213: -1431505802666328404
+    second: Bluey-IceAssets_95
+  - first:
+      213: 3997591246448917543
+    second: Bluey-IceAssets_96
+  - first:
+      213: -3607046134775505435
+    second: Bluey-IceAssets_97
+  - first:
+      213: -1117486737392733796
+    second: Bluey-IceAssets_98
+  - first:
+      213: 1691918613756813676
+    second: Bluey-IceAssets_99
+  - first:
+      213: -194482321027673297
+    second: Bluey-IceAssets_100
+  - first:
+      213: -3584920148202720664
+    second: Bluey-IceAssets_101
+  - first:
+      213: -5946090040460713503
+    second: Bluey-IceAssets_102
+  - first:
+      213: -8557368238191044249
+    second: Bluey-IceAssets_103
+  - first:
+      213: -7987663173722898889
+    second: Bluey-IceAssets_104
+  - first:
+      213: 3832884773244308624
+    second: Bluey-IceAssets_105
+  - first:
+      213: -2752355233346234111
+    second: Bluey-IceAssets_106
+  - first:
+      213: -6438966021362290627
+    second: Bluey-IceAssets_107
+  - first:
+      213: -5088171601925977166
+    second: Bluey-IceAssets_108
+  - first:
+      213: 2667010486260018146
+    second: Bluey-IceAssets_109
+  - first:
+      213: 5122971226462115917
+    second: Bluey-IceAssets_110
+  - first:
+      213: -1681819877588099315
+    second: Bluey-IceAssets_111
+  - first:
+      213: 4562962542501855130
+    second: Bluey-IceAssets_112
+  - first:
+      213: 7161877687736640868
+    second: Bluey-IceAssets_113
+  - first:
+      213: 6651289180428308405
+    second: Bluey-IceAssets_114
+  - first:
+      213: -3237735361322581900
+    second: Bluey-IceAssets_115
+  - first:
+      213: 346067449778062108
+    second: Bluey-IceAssets_116
+  - first:
+      213: -7277326395758479715
+    second: Bluey-IceAssets_117
+  - first:
+      213: -3280625214321532375
+    second: Bluey-IceAssets_118
+  - first:
+      213: -3766206939528036205
+    second: Bluey-IceAssets_119
+  - first:
+      213: 3070239902490132797
+    second: Bluey-IceAssets_120
+  - first:
+      213: -6410800949998277228
+    second: Bluey-IceAssets_121
+  - first:
+      213: 8450893122689717341
+    second: Bluey-IceAssets_122
+  - first:
+      213: -4833997546284631688
+    second: Bluey-IceAssets_123
+  - first:
+      213: 1661733753194336887
+    second: Bluey-IceAssets_124
+  - first:
+      213: 6232472355591555186
+    second: Bluey-IceAssets_125
+  - first:
+      213: 1802059480259095467
+    second: Bluey-IceAssets_126
+  - first:
+      213: 5315395538726473705
+    second: Bluey-IceAssets_127
+  - first:
+      213: -4617094909250803988
+    second: Bluey-IceAssets_128
+  - first:
+      213: 2309794789383808102
+    second: Bluey-IceAssets_129
+  - first:
+      213: 7267833010798558187
+    second: Bluey-IceAssets_130
+  - first:
+      213: 4765511279282814912
+    second: Bluey-IceAssets_131
+  - first:
+      213: -6781854641116130085
+    second: Bluey-IceAssets_132
+  - first:
+      213: -3711426609504418705
+    second: Bluey-IceAssets_133
+  - first:
+      213: 4593571299546823773
+    second: Bluey-IceAssets_134
+  - first:
+      213: 399530182786712291
+    second: Bluey-IceAssets_135
+  - first:
+      213: 4555956534091801122
+    second: Bluey-IceAssets_136
+  - first:
+      213: 8958949135857849883
+    second: Bluey-IceAssets_137
+  - first:
+      213: -7196835273791282611
+    second: Bluey-IceAssets_138
+  - first:
+      213: -5071675822763867596
+    second: Bluey-IceAssets_139
+  - first:
+      213: -5861827873694812100
+    second: Bluey-IceAssets_140
+  - first:
+      213: 7653204952296565973
+    second: Bluey-IceAssets_141
+  - first:
+      213: 1305494579311789946
+    second: Bluey-IceAssets_142
+  - first:
+      213: 2876565813094751466
+    second: Bluey-IceAssets_143
+  - first:
+      213: -8273669625054871723
+    second: Bluey-IceAssets_144
+  - first:
+      213: -5149545548559904283
+    second: Bluey-IceAssets_145
+  - first:
+      213: 3511779209297905278
+    second: Bluey-IceAssets_146
+  - first:
+      213: -1303339512189477858
+    second: Bluey-IceAssets_147
+  - first:
+      213: -4618265877165941904
+    second: Bluey-IceAssets_148
+  - first:
+      213: 1132011925311378765
+    second: Bluey-IceAssets_149
+  - first:
+      213: -2385688996823722288
+    second: Bluey-IceAssets_150
+  - first:
+      213: -5533128046314193417
+    second: Bluey-IceAssets_151
+  - first:
+      213: -2744507342757917489
+    second: Bluey-IceAssets_152
+  - first:
+      213: -862313166038035945
+    second: Bluey-IceAssets_153
+  - first:
+      213: -793617863718137599
+    second: Bluey-IceAssets_154
+  - first:
+      213: -7572615446840626050
+    second: Bluey-IceAssets_155
+  - first:
+      213: 1707336704558021882
+    second: Bluey-IceAssets_156
+  - first:
+      213: -2972636408775593643
+    second: Bluey-IceAssets_157
+  - first:
+      213: -8899339172131334067
+    second: Bluey-IceAssets_158
+  - first:
+      213: 6638596558547496426
+    second: Bluey-IceAssets_159
+  - first:
+      213: -5525875920365375282
+    second: Bluey-IceAssets_160
+  - first:
+      213: 8653999271898670895
+    second: Bluey-IceAssets_161
+  - first:
+      213: 8101883736098234659
+    second: Bluey-IceAssets_162
+  - first:
+      213: -5542789473646649855
+    second: Bluey-IceAssets_163
+  - first:
+      213: -3107150727485121514
+    second: Bluey-IceAssets_164
+  - first:
+      213: 2849029322035910741
+    second: Bluey-IceAssets_165
+  - first:
+      213: -3503896173861222021
+    second: Bluey-IceAssets_166
+  - first:
+      213: 2702181712507870795
+    second: Bluey-IceAssets_167
+  - first:
+      213: -8337425092716229387
+    second: Bluey-IceAssets_168
+  - first:
+      213: 3472494689457595373
+    second: Bluey-IceAssets_169
+  - first:
+      213: -5920348845450693723
+    second: Bluey-IceAssets_170
+  - first:
+      213: 9169761091482068215
+    second: Bluey-IceAssets_171
+  - first:
+      213: 4834802232909661495
+    second: Bluey-IceAssets_172
+  - first:
+      213: -4210491207772452993
+    second: Bluey-IceAssets_173
+  - first:
+      213: -6870052088409882242
+    second: Bluey-IceAssets_174
+  - first:
+      213: -6833968993599927495
+    second: Bluey-IceAssets_175
+  - first:
+      213: 8084419972657931678
+    second: Bluey-IceAssets_176
+  - first:
+      213: -9781235439728198
+    second: Bluey-IceAssets_177
+  - first:
+      213: 3831467513144191901
+    second: Bluey-IceAssets_178
+  - first:
+      213: 4498797665619021516
+    second: Bluey-IceAssets_179
+  - first:
+      213: 5205566028918049978
+    second: Bluey-IceAssets_180
+  - first:
+      213: -4663570144918949073
+    second: Bluey-IceAssets_181
+  - first:
+      213: -1856816137951755143
+    second: Bluey-IceAssets_182
+  - first:
+      213: 2880707115854318788
+    second: Bluey-IceAssets_183
+  - first:
+      213: -4502466538923330455
+    second: Bluey-IceAssets_184
+  - first:
+      213: 8083678221818250475
+    second: Bluey-IceAssets_185
+  - first:
+      213: -4616142324347430169
+    second: Bluey-IceAssets_186
+  - first:
+      213: 7648816752863112890
+    second: Bluey-IceAssets_187
+  - first:
+      213: -8888963401447931563
+    second: Bluey-IceAssets_188
+  - first:
+      213: 6312788508760489468
+    second: Bluey-IceAssets_189
+  - first:
+      213: -30773646466115419
+    second: Bluey-IceAssets_190
+  - first:
+      213: 1767988959320199827
+    second: Bluey-IceAssets_191
+  - first:
+      213: 6009878368011621176
+    second: Bluey-IceAssets_192
+  - first:
+      213: 4628895094965932484
+    second: Bluey-IceAssets_193
+  - first:
+      213: -2356844665365188252
+    second: Bluey-IceAssets_194
+  - first:
+      213: -2842604361828680649
+    second: Bluey-IceAssets_195
+  - first:
+      213: -6747258743609351877
+    second: Bluey-IceAssets_196
+  - first:
+      213: -1080074580522796707
+    second: Bluey-IceAssets_197
+  - first:
+      213: 1215846954055873476
+    second: Bluey-IceAssets_198
+  - first:
+      213: -6437849373488860017
+    second: Bluey-IceAssets_199
+  - first:
+      213: 1002929915329775488
+    second: Bluey-IceAssets_200
+  - first:
+      213: -2550063981863022658
+    second: Bluey-IceAssets_201
+  - first:
+      213: -916542632723655285
+    second: Bluey-IceAssets_202
+  - first:
+      213: -2817542868704656244
+    second: Bluey-IceAssets_203
+  - first:
+      213: 1249572313135333721
+    second: Bluey-IceAssets_204
+  - first:
+      213: -194115597397697668
+    second: Bluey-IceAssets_205
+  - first:
+      213: 6223303649635852767
+    second: Bluey-IceAssets_206
+  - first:
+      213: -39134643841983757
+    second: Bluey-IceAssets_207
+  - first:
+      213: -8301670294532225341
+    second: Bluey-IceAssets_208
+  - first:
+      213: 2068589417178206852
+    second: Bluey-IceAssets_209
+  - first:
+      213: -7938404298700901879
+    second: Bluey-IceAssets_210
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bluey-IceAssets_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 959
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3f5ff48a1f62100800000000000000
+      internalID: 83019348351251406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 943
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d65b4746e36265d0800000000000000
+      internalID: -3070782155223509294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 975
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959baf2338d6d02a0800000000000000
+      internalID: -6769634254604551847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 975
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bb3bbaf886db6e0800000000000000
+      internalID: -1820183708117517506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 975
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5a9331f63ceb6b0800000000000000
+      internalID: -5278566831400311369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 959
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d8f9fbf6baa4a50800000000000000
+      internalID: 6506201108134726965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 975
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc74d1acd149470b0800000000000000
+      internalID: -5731793570069919795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 975
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202b7edda1079f1f0800000000000000
+      internalID: -1010653380673555966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 975
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf92452ab09761ac0800000000000000
+      internalID: -3884784537685448197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 975
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcd1245024783760800000000000000
+      internalID: 7437822466801655005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 975
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8621563a8c46bdfd0800000000000000
+      internalID: -2316146770454441368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 943
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a486763625c808590800000000000000
+      internalID: -7673979479556396982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_12
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 991
+        width: 172
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9c89397bf9c4a00800000000000000
+      internalID: 742143649413384636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_13
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 943
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebda0b3951d34d50800000000000000
+      internalID: 6720445250139773927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 943
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0456397a64b18eff0800000000000000
+      internalID: -6725409167940288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 943
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f1fa5ce96c15ac0800000000000000
+      internalID: -3868092219710824613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 943
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d74c238a4baaef20800000000000000
+      internalID: 3452760400849553369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 943
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9badfa3e5258eaf90800000000000000
+      internalID: -6940463577951118663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 943
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a57276b1a857c10800000000000000
+      internalID: 2050697055636511274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_19
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 943
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d345c8bcbdffafb0800000000000000
+      internalID: -4634206504545336360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 943
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd67959a18b472f0800000000000000
+      internalID: -975952794914165287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_21
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 959
+        width: 172
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb4c48d1045b98e0800000000000000
+      internalID: -1685661268619539476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 895
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe33ac1e771c117f0800000000000000
+      internalID: -643520551103876113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 897
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b9c7a17a04990a0800000000000000
+      internalID: -6874392269756261575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 896
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f7a1d6e90ad7cb0800000000000000
+      internalID: -4864555420194537676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 906
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9221f4b72933540800000000000000
+      internalID: 4986490270734494179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 911
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b435807ef5f45afb0800000000000000
+      internalID: -4637212967991487669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 891
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7240579750a3202d0800000000000000
+      internalID: -3314022580604304345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 895
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b21be41f4c780d90800000000000000
+      internalID: -7131313330845969738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 895
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fadfbee8531d090800000000000000
+      internalID: -8011563374154502366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 886
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9343d5dbb83870690800000000000000
+      internalID: -7635990006982691783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 895
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0790d99240aa77c80800000000000000
+      internalID: -8324998451316323984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_32
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 895
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a123000397fd880800000000000000
+      internalID: -8584009117676201331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_33
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 911
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f772569929a07c410800000000000000
+      internalID: 1497177025879025535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 906
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca021a24df093e320800000000000000
+      internalID: 2586070028459778220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_35
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 896
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156b49bb101c44060800000000000000
+      internalID: 6936881539243619921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_36
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 897
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b65190ce8c146720800000000000000
+      internalID: 2838425064591939250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_37
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 895
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4253fd71ee7575df0800000000000000
+      internalID: -191587779025619676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_38
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 879
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61760e06120a1240800000000000000
+      internalID: 4763121849645560170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_39
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 879
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ff854fce2e638e0800000000000000
+      internalID: -1713933100828262601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_40
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 879
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a200c71df07525980800000000000000
+      internalID: -8551677016972459990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_41
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 847
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ae48a1d86adffd0800000000000000
+      internalID: -2306504309178307994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 879
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f91c7f1130897a00800000000000000
+      internalID: 754775361031248376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 879
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5da5374072c6500800000000000000
+      internalID: 390730167743075799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 879
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74a942dade6c5540800000000000000
+      internalID: 4997991572584375422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 879
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f9949c426d9a8b0800000000000000
+      internalID: -5140342046182498411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 815
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066835dc1f4ad51f0800000000000000
+      internalID: -1054505379295951264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 815
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dada6ee5975ef4a0800000000000000
+      internalID: -6557707705943139624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 815
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40932afdca4795a10800000000000000
+      internalID: 1898677003748522244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_49
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 831
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd532ce2ef6ae190800000000000000
+      internalID: -7932404773244674570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_50
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 831
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57fa3f7219e53cc0800000000000000
+      internalID: -3731820450553333926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 815
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4757e2c42b61e80800000000000000
+      internalID: -8208177230569442089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_52
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 815
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6acaccd42d78c90800000000000000
+      internalID: -7167529050348673373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_53
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 831
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256b531df14774af0800000000000000
+      internalID: -412233160878344622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_54
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 831
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f13757e6b6758a0800000000000000
+      internalID: -6316461830202777811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_55
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 815
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a919c46bcb4f37f10800000000000000
+      internalID: 2266424128846991770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_56
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 815
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4717710bf68e467c0800000000000000
+      internalID: -4078879796097486476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_57
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 815
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a4372ecb1513110800000000000000
+      internalID: 1238861244198505041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_58
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 815
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e26006ea3a542090800000000000000
+      internalID: -8060218224072957215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_59
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 815
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace00d825033ea6b0800000000000000
+      internalID: -5283229215606436150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 751
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c502ff0148d0ef1b0800000000000000
+      internalID: -5621040424039800740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 768
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41ec2b180d3adc10800000000000000
+      internalID: 2079041283009864012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_62
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 767
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9c53cd2668faa10800000000000000
+      internalID: 1922903325069920755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc70684ae68189600800000000000000
+      internalID: 475156624173303755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_64
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6e7c298a0938550800000000000000
+      internalID: 6161927768864450278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a326f3b2ff2b3990800000000000000
+      internalID: -7405272442832804951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93a2835c78585070800000000000000
+      internalID: 8095317621198726044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_67
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be937f43ea964d70800000000000000
+      internalID: 9027072804191968945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_68
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a565fbf14b88f8c0800000000000000
+      internalID: -3965266356383423071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_69
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0005ed50e96ecadd0800000000000000
+      internalID: -2473348528955568128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_70
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4f72578772f5810800000000000000
+      internalID: 1756165778012894453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_71
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 767
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d716e12dafe045310800000000000000
+      internalID: 1392754655194145149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_72
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 768
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473d780d78f40bf70800000000000000
+      internalID: 9200941483455665012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_73
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 751
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70f556d72605d680800000000000000
+      internalID: -8731065534418390916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_74
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 783
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6525464c7bf54b4d0800000000000000
+      internalID: -3119763398982348202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_75
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e6a19f4e7907690800000000000000
+      internalID: -7606412760941171140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_76
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24982c50230ffc70800000000000000
+      internalID: 9006921217284281389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88fc9ddd2960eae0800000000000000
+      internalID: -1522101028338730865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_78
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038ed1acf18222c80800000000000000
+      internalID: -8349066642191423440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_79
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b0823c0399dd3e0800000000000000
+      internalID: -2027295822535193748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_80
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c44b72a82e89a650800000000000000
+      internalID: 6244678663501726916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_81
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 719
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004ba748659f4fd40800000000000000
+      internalID: 5617388785222988800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_82
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379573d25c5e68360800000000000000
+      internalID: 7171672091664013683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_83
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60b75d3414005fa0800000000000000
+      internalID: -5814142633960296339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_84
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbb5e3e96ec94b50800000000000000
+      internalID: 6578015684941691849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_85
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe859fa3d2318630800000000000000
+      internalID: 3927476234809085683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_86
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9132bdd36620d10800000000000000
+      internalID: 2090345592908880329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_87
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2d84b2dcd13e8e0800000000000000
+      internalID: -1665454670165257555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 719
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5140abc1d7f919e0800000000000000
+      internalID: -1650015308018073251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_89
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 719
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742f04eee8c4a7820800000000000000
+      internalID: 2916727885442118215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_90
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 643
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c484a300ecfc337a0800000000000000
+      internalID: -6398542161889310644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_91
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 643
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0290e71032c474750800000000000000
+      internalID: 6289079117878790432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 671
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4d5661d309e88d0800000000000000
+      internalID: -2842175722781027106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_93
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 671
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6451066d48ed190800000000000000
+      internalID: -7935759437110360410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_94
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 671
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f293dcc60ce3c5120800000000000000
+      internalID: 2403865297289034031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 671
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeb9229e05422ce0800000000000000
+      internalID: -1431505802666328404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_96
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 623
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c7cc9fe0c4a7730800000000000000
+      internalID: 3997591246448917543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_97
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 623
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed9240c6a231fdc0800000000000000
+      internalID: -3607046134775505435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_98
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 623
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91fe78abb3ed70f0800000000000000
+      internalID: -1117486737392733796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_99
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 623
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61a8d9d307ea7710800000000000000
+      internalID: 1691918613756813676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_100
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 623
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f235d040c5f0d4df0800000000000000
+      internalID: -194482321027673297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_101
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 623
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8627c327e1ecf3ec0800000000000000
+      internalID: -3584920148202720664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_102
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 623
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1e9d7ac9e3b7da0800000000000000
+      internalID: -5946090040460713503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_103
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 623
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769996e1dee1e3980800000000000000
+      internalID: -8557368238191044249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_104
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 527
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ef6c8f9ae162190800000000000000
+      internalID: -7987663173722898889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_105
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 527
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c0b3ec464213530800000000000000
+      internalID: 3832884773244308624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 543
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109d5b47f7badc9d0800000000000000
+      internalID: -2752355233346234111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_107
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 543
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30f3e7c48234a6a0800000000000000
+      internalID: -6438966021362290627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_108
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 543
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbc8f6e2ee2369b0800000000000000
+      internalID: -5088171601925977166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_109
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 543
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb25c528ef130520800000000000000
+      internalID: 2667010486260018146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_110
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 543
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4852d31033781740800000000000000
+      internalID: 5122971226462115917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_111
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 543
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f9b246bb9f8a8e0800000000000000
+      internalID: -1681819877588099315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_112
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 543
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f7c3db146e25f30800000000000000
+      internalID: 4562962542501855130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_113
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 543
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465a65ecfc9146360800000000000000
+      internalID: 7161877687736640868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_114
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 543
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf04d105402e4c50800000000000000
+      internalID: 6651289180428308405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_115
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 543
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47085a7d7d04113d0800000000000000
+      internalID: -3237735361322581900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_116
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 527
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13c854138a7dc400800000000000000
+      internalID: 346067449778062108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_117
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 527
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96fd32333eb10b90800000000000000
+      internalID: -7277326395758479715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_118
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 479
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922ec23cfb0e872d0800000000000000
+      internalID: -3280625214321532375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_119
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 511
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39002d22ebebbbbc0800000000000000
+      internalID: -3766206939528036205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_120
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 495
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31872baceeab9a20800000000000000
+      internalID: 3070239902490132797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_121
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 495
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dad9970824807a0800000000000000
+      internalID: -6410800949998277228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_122
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 495
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5456b4358a974570800000000000000
+      internalID: 8450893122689717341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_123
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 495
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8793890e7d03aecb0800000000000000
+      internalID: -4833997546284631688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_124
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 511
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772dc665b0aaf0710800000000000000
+      internalID: 1661733753194336887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_125
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 479
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2780a7b16903e7650800000000000000
+      internalID: 6232472355591555186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_126
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 431
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babe7f0bc83320910800000000000000
+      internalID: 1802059480259095467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_127
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 431
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efcc7e841414c940800000000000000
+      internalID: 5315395538726473705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_128
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce667d774a8ccefb0800000000000000
+      internalID: -4617094909250803988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_129
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66425458f1a0e0020800000000000000
+      internalID: 2309794789383808102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_130
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 415
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb718fdd978cd460800000000000000
+      internalID: 7267833010798558187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_131
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 351
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cff4ce724f722240800000000000000
+      internalID: 4765511279282814912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_132
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 415
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd450fdb22302e1a0800000000000000
+      internalID: -6781854641116130085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_133
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 351
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f648e82a92d5e7cc0800000000000000
+      internalID: -3711426609504418705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_134
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 415
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cfae752c4afbf30800000000000000
+      internalID: 4593571299546823773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_135
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e28c0e959a6b8500800000000000000
+      internalID: 399530182786712291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_136
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 351
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22269aa44520a3f30800000000000000
+      internalID: 4555956534091801122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_137
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 351
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b169993c5c4945c70800000000000000
+      internalID: 8958949135857849883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_138
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 351
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d426baee274bf1c90800000000000000
+      internalID: -7196835273791282611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_139
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 351
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4320938c5b9cd99b0800000000000000
+      internalID: -5071675822763867596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_140
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 351
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38ffed2b9a96aea0800000000000000
+      internalID: -5861827873694812100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_141
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 351
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dca5ee0b55a53a60800000000000000
+      internalID: 7653204952296565973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_142
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 351
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77c310376c0e1210800000000000000
+      internalID: 1305494579311789946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_143
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 351
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec9b86cd5d9be720800000000000000
+      internalID: 2876565813094751466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_144
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 351
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f3aa1df450e2d80800000000000000
+      internalID: -8273669625054871723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_145
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e194676b932988b0800000000000000
+      internalID: -5149545548559904283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_146
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76cdcba5985cb030800000000000000
+      internalID: 3511779209297905278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_147
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c173a7e9b99ede0800000000000000
+      internalID: -1303339512189477858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_148
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b573147af98efb0800000000000000
+      internalID: -4618265877165941904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_149
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45d0b139d6b5bf00800000000000000
+      internalID: 1132011925311378765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_150
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d693cf4f7454eed0800000000000000
+      internalID: -2385688996823722288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_151
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf0be8b516633b0800000000000000
+      internalID: -5533128046314193417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_152
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc867fdc1d89e9d0800000000000000
+      internalID: -2744507342757917489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_153
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71219258eb27804f0800000000000000
+      internalID: -862313166038035945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_154
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 287
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1011da9f1c08cf4f0800000000000000
+      internalID: -793617863718137599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_155
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 303
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74bd6e5f5aa8e690800000000000000
+      internalID: -7572615446840626050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_156
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 303
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcba2bdfada1b710800000000000000
+      internalID: 1707336704558021882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_157
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551b9889fe21fb6d0800000000000000
+      internalID: -2972636408775593643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_158
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4894657c223f7480800000000000000
+      internalID: -8899339172131334067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_159
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 303
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedaa5fa568012c50800000000000000
+      internalID: 6638596558547496426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_160
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 303
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0bcb5b0252053b0800000000000000
+      internalID: -5525875920365375282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_161
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f276208ac7e291870800000000000000
+      internalID: 8653999271898670895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_162
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32166a5155caf6070800000000000000
+      internalID: 8101883736098234659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_163
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e5486375e0413b0800000000000000
+      internalID: -5542789473646649855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_164
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c17a030ee21e4d0800000000000000
+      internalID: -3107150727485121514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_165
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5585f96d219c98720800000000000000
+      internalID: 2849029322035910741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_166
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79c62b8ef8af5fc0800000000000000
+      internalID: -3503896173861222021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_167
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e969463f3108520800000000000000
+      internalID: 2702181712507870795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_168
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc883f3d048b4c80800000000000000
+      internalID: -8337425092716229387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_169
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3ec81a587c03030800000000000000
+      internalID: 3472494689457595373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_170
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 255
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a37488a712b6dda0800000000000000
+      internalID: -5920348845450693723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_171
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 255
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4acf41129814f70800000000000000
+      internalID: 9169761091482068215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_172
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73588d3d30ba81340800000000000000
+      internalID: 4834802232909661495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_173
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7741defd845195c0800000000000000
+      internalID: -4210491207772452993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_174
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7106e1560ca8a0a0800000000000000
+      internalID: -6870052088409882242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_175
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b4172886dd821a0800000000000000
+      internalID: -6833968993599927495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_176
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95695dc121a13070800000000000000
+      internalID: 8084419972657931678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_177
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab98628a4004ddff0800000000000000
+      internalID: -9781235439728198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_178
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 223
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ba869376b1c2530800000000000000
+      internalID: 3831467513144191901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_179
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 191
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce049724a0fe6e30800000000000000
+      internalID: 4498797665619021516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_180
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 223
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc408819b2ed3840800000000000000
+      internalID: 5205566028918049978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_181
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f233dfe69aba74fb0800000000000000
+      internalID: -4663570144918949073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_182
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9744c247f834b36e0800000000000000
+      internalID: -1856816137951755143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_183
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cccf66fbd35af720800000000000000
+      internalID: 2880707115854318788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_184
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9647466b9860481c0800000000000000
+      internalID: -4502466538923330455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_185
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4c90a738efe2070800000000000000
+      internalID: 8083678221818250475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_186
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 143
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea10ac630b20ffb0800000000000000
+      internalID: -4616142324347430169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_187
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe6672cf4e062a60800000000000000
+      internalID: 7648816752863112890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_188
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5518f33d1ee04a480800000000000000
+      internalID: -8888963401447931563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_189
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd36deb3b78b9750800000000000000
+      internalID: 6312788508760489468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_190
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 191
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a891f5188ba29ff0800000000000000
+      internalID: -30773646466115419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_191
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 191
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392d71f5798298810800000000000000
+      internalID: 1767988959320199827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_192
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 116
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83313a4b880676350800000000000000
+      internalID: 6009878368011621176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_193
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c11efd50932d3040800000000000000
+      internalID: 4628895094965932484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_194
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4613222934eca4fd0800000000000000
+      internalID: -2356844665365188252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_195
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 116
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cb938c46a0d88d0800000000000000
+      internalID: -2842604361828680649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_196
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 143
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b312483dbebec52a0800000000000000
+      internalID: -6747258743609351877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_197
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59720934edc201f0800000000000000
+      internalID: -1080074580522796707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_198
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 143
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3bdb5ec5e8fd010800000000000000
+      internalID: 1215846954055873476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_199
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84b9bf9a1a28a6a0800000000000000
+      internalID: -6437849373488860017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_200
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08708d9b17f1bed00800000000000000
+      internalID: 1002929915329775488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_201
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 73
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf498eb15a5c9cd0800000000000000
+      internalID: -2550063981863022658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_202
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 68
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b855103e459c743f0800000000000000
+      internalID: -916542632723655285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_203
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 70
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c848c6b50b316e8d0800000000000000
+      internalID: -2817542868704656244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_204
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 70
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9514895f56f575110800000000000000
+      internalID: 1249572313135333721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_205
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 68
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b5fb384ec5e4df0800000000000000
+      internalID: -194115597397697668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_206
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 73
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1efe562bd9d5650800000000000000
+      internalID: 6223303649635852767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_207
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 63
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa136faf37f47ff0800000000000000
+      internalID: -39134643841983757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_208
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c68efbe9da8acc80800000000000000
+      internalID: -8301670294532225341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_209
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 12
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4821a057d1b15bc10800000000000000
+      internalID: 2068589417178206852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluey-IceAssets_210
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 12
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902bf7c895f15d190800000000000000
+      internalID: -7938404298700901879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bluey-IceAssets_0: 83019348351251406
+      Bluey-IceAssets_1: -3070782155223509294
+      Bluey-IceAssets_10: -2316146770454441368
+      Bluey-IceAssets_100: -194482321027673297
+      Bluey-IceAssets_101: -3584920148202720664
+      Bluey-IceAssets_102: -5946090040460713503
+      Bluey-IceAssets_103: -8557368238191044249
+      Bluey-IceAssets_104: -7987663173722898889
+      Bluey-IceAssets_105: 3832884773244308624
+      Bluey-IceAssets_106: -2752355233346234111
+      Bluey-IceAssets_107: -6438966021362290627
+      Bluey-IceAssets_108: -5088171601925977166
+      Bluey-IceAssets_109: 2667010486260018146
+      Bluey-IceAssets_11: -7673979479556396982
+      Bluey-IceAssets_110: 5122971226462115917
+      Bluey-IceAssets_111: -1681819877588099315
+      Bluey-IceAssets_112: 4562962542501855130
+      Bluey-IceAssets_113: 7161877687736640868
+      Bluey-IceAssets_114: 6651289180428308405
+      Bluey-IceAssets_115: -3237735361322581900
+      Bluey-IceAssets_116: 346067449778062108
+      Bluey-IceAssets_117: -7277326395758479715
+      Bluey-IceAssets_118: -3280625214321532375
+      Bluey-IceAssets_119: -3766206939528036205
+      Bluey-IceAssets_12: 742143649413384636
+      Bluey-IceAssets_120: 3070239902490132797
+      Bluey-IceAssets_121: -6410800949998277228
+      Bluey-IceAssets_122: 8450893122689717341
+      Bluey-IceAssets_123: -4833997546284631688
+      Bluey-IceAssets_124: 1661733753194336887
+      Bluey-IceAssets_125: 6232472355591555186
+      Bluey-IceAssets_126: 1802059480259095467
+      Bluey-IceAssets_127: 5315395538726473705
+      Bluey-IceAssets_128: -4617094909250803988
+      Bluey-IceAssets_129: 2309794789383808102
+      Bluey-IceAssets_13: 6720445250139773927
+      Bluey-IceAssets_130: 7267833010798558187
+      Bluey-IceAssets_131: 4765511279282814912
+      Bluey-IceAssets_132: -6781854641116130085
+      Bluey-IceAssets_133: -3711426609504418705
+      Bluey-IceAssets_134: 4593571299546823773
+      Bluey-IceAssets_135: 399530182786712291
+      Bluey-IceAssets_136: 4555956534091801122
+      Bluey-IceAssets_137: 8958949135857849883
+      Bluey-IceAssets_138: -7196835273791282611
+      Bluey-IceAssets_139: -5071675822763867596
+      Bluey-IceAssets_14: -6725409167940288
+      Bluey-IceAssets_140: -5861827873694812100
+      Bluey-IceAssets_141: 7653204952296565973
+      Bluey-IceAssets_142: 1305494579311789946
+      Bluey-IceAssets_143: 2876565813094751466
+      Bluey-IceAssets_144: -8273669625054871723
+      Bluey-IceAssets_145: -5149545548559904283
+      Bluey-IceAssets_146: 3511779209297905278
+      Bluey-IceAssets_147: -1303339512189477858
+      Bluey-IceAssets_148: -4618265877165941904
+      Bluey-IceAssets_149: 1132011925311378765
+      Bluey-IceAssets_15: -3868092219710824613
+      Bluey-IceAssets_150: -2385688996823722288
+      Bluey-IceAssets_151: -5533128046314193417
+      Bluey-IceAssets_152: -2744507342757917489
+      Bluey-IceAssets_153: -862313166038035945
+      Bluey-IceAssets_154: -793617863718137599
+      Bluey-IceAssets_155: -7572615446840626050
+      Bluey-IceAssets_156: 1707336704558021882
+      Bluey-IceAssets_157: -2972636408775593643
+      Bluey-IceAssets_158: -8899339172131334067
+      Bluey-IceAssets_159: 6638596558547496426
+      Bluey-IceAssets_16: 3452760400849553369
+      Bluey-IceAssets_160: -5525875920365375282
+      Bluey-IceAssets_161: 8653999271898670895
+      Bluey-IceAssets_162: 8101883736098234659
+      Bluey-IceAssets_163: -5542789473646649855
+      Bluey-IceAssets_164: -3107150727485121514
+      Bluey-IceAssets_165: 2849029322035910741
+      Bluey-IceAssets_166: -3503896173861222021
+      Bluey-IceAssets_167: 2702181712507870795
+      Bluey-IceAssets_168: -8337425092716229387
+      Bluey-IceAssets_169: 3472494689457595373
+      Bluey-IceAssets_17: -6940463577951118663
+      Bluey-IceAssets_170: -5920348845450693723
+      Bluey-IceAssets_171: 9169761091482068215
+      Bluey-IceAssets_172: 4834802232909661495
+      Bluey-IceAssets_173: -4210491207772452993
+      Bluey-IceAssets_174: -6870052088409882242
+      Bluey-IceAssets_175: -6833968993599927495
+      Bluey-IceAssets_176: 8084419972657931678
+      Bluey-IceAssets_177: -9781235439728198
+      Bluey-IceAssets_178: 3831467513144191901
+      Bluey-IceAssets_179: 4498797665619021516
+      Bluey-IceAssets_18: 2050697055636511274
+      Bluey-IceAssets_180: 5205566028918049978
+      Bluey-IceAssets_181: -4663570144918949073
+      Bluey-IceAssets_182: -1856816137951755143
+      Bluey-IceAssets_183: 2880707115854318788
+      Bluey-IceAssets_184: -4502466538923330455
+      Bluey-IceAssets_185: 8083678221818250475
+      Bluey-IceAssets_186: -4616142324347430169
+      Bluey-IceAssets_187: 7648816752863112890
+      Bluey-IceAssets_188: -8888963401447931563
+      Bluey-IceAssets_189: 6312788508760489468
+      Bluey-IceAssets_19: -4634206504545336360
+      Bluey-IceAssets_190: -30773646466115419
+      Bluey-IceAssets_191: 1767988959320199827
+      Bluey-IceAssets_192: 6009878368011621176
+      Bluey-IceAssets_193: 4628895094965932484
+      Bluey-IceAssets_194: -2356844665365188252
+      Bluey-IceAssets_195: -2842604361828680649
+      Bluey-IceAssets_196: -6747258743609351877
+      Bluey-IceAssets_197: -1080074580522796707
+      Bluey-IceAssets_198: 1215846954055873476
+      Bluey-IceAssets_199: -6437849373488860017
+      Bluey-IceAssets_2: -6769634254604551847
+      Bluey-IceAssets_20: -975952794914165287
+      Bluey-IceAssets_200: 1002929915329775488
+      Bluey-IceAssets_201: -2550063981863022658
+      Bluey-IceAssets_202: -916542632723655285
+      Bluey-IceAssets_203: -2817542868704656244
+      Bluey-IceAssets_204: 1249572313135333721
+      Bluey-IceAssets_205: -194115597397697668
+      Bluey-IceAssets_206: 6223303649635852767
+      Bluey-IceAssets_207: -39134643841983757
+      Bluey-IceAssets_208: -8301670294532225341
+      Bluey-IceAssets_209: 2068589417178206852
+      Bluey-IceAssets_21: -1685661268619539476
+      Bluey-IceAssets_210: -7938404298700901879
+      Bluey-IceAssets_22: -643520551103876113
+      Bluey-IceAssets_23: -6874392269756261575
+      Bluey-IceAssets_24: -4864555420194537676
+      Bluey-IceAssets_25: 4986490270734494179
+      Bluey-IceAssets_26: -4637212967991487669
+      Bluey-IceAssets_27: -3314022580604304345
+      Bluey-IceAssets_28: -7131313330845969738
+      Bluey-IceAssets_29: -8011563374154502366
+      Bluey-IceAssets_3: -1820183708117517506
+      Bluey-IceAssets_30: -7635990006982691783
+      Bluey-IceAssets_31: -8324998451316323984
+      Bluey-IceAssets_32: -8584009117676201331
+      Bluey-IceAssets_33: 1497177025879025535
+      Bluey-IceAssets_34: 2586070028459778220
+      Bluey-IceAssets_35: 6936881539243619921
+      Bluey-IceAssets_36: 2838425064591939250
+      Bluey-IceAssets_37: -191587779025619676
+      Bluey-IceAssets_38: 4763121849645560170
+      Bluey-IceAssets_39: -1713933100828262601
+      Bluey-IceAssets_4: -5278566831400311369
+      Bluey-IceAssets_40: -8551677016972459990
+      Bluey-IceAssets_41: -2306504309178307994
+      Bluey-IceAssets_42: 754775361031248376
+      Bluey-IceAssets_43: 390730167743075799
+      Bluey-IceAssets_44: 4997991572584375422
+      Bluey-IceAssets_45: -5140342046182498411
+      Bluey-IceAssets_46: -1054505379295951264
+      Bluey-IceAssets_47: -6557707705943139624
+      Bluey-IceAssets_48: 1898677003748522244
+      Bluey-IceAssets_49: -7932404773244674570
+      Bluey-IceAssets_5: 6506201108134726965
+      Bluey-IceAssets_50: -3731820450553333926
+      Bluey-IceAssets_51: -8208177230569442089
+      Bluey-IceAssets_52: -7167529050348673373
+      Bluey-IceAssets_53: -412233160878344622
+      Bluey-IceAssets_54: -6316461830202777811
+      Bluey-IceAssets_55: 2266424128846991770
+      Bluey-IceAssets_56: -4078879796097486476
+      Bluey-IceAssets_57: 1238861244198505041
+      Bluey-IceAssets_58: -8060218224072957215
+      Bluey-IceAssets_59: -5283229215606436150
+      Bluey-IceAssets_6: -5731793570069919795
+      Bluey-IceAssets_60: -5621040424039800740
+      Bluey-IceAssets_61: 2079041283009864012
+      Bluey-IceAssets_62: 1922903325069920755
+      Bluey-IceAssets_63: 475156624173303755
+      Bluey-IceAssets_64: 6161927768864450278
+      Bluey-IceAssets_65: -7405272442832804951
+      Bluey-IceAssets_66: 8095317621198726044
+      Bluey-IceAssets_67: 9027072804191968945
+      Bluey-IceAssets_68: -3965266356383423071
+      Bluey-IceAssets_69: -2473348528955568128
+      Bluey-IceAssets_7: -1010653380673555966
+      Bluey-IceAssets_70: 1756165778012894453
+      Bluey-IceAssets_71: 1392754655194145149
+      Bluey-IceAssets_72: 9200941483455665012
+      Bluey-IceAssets_73: -8731065534418390916
+      Bluey-IceAssets_74: -3119763398982348202
+      Bluey-IceAssets_75: -7606412760941171140
+      Bluey-IceAssets_76: 9006921217284281389
+      Bluey-IceAssets_77: -1522101028338730865
+      Bluey-IceAssets_78: -8349066642191423440
+      Bluey-IceAssets_79: -2027295822535193748
+      Bluey-IceAssets_8: -3884784537685448197
+      Bluey-IceAssets_80: 6244678663501726916
+      Bluey-IceAssets_81: 5617388785222988800
+      Bluey-IceAssets_82: 7171672091664013683
+      Bluey-IceAssets_83: -5814142633960296339
+      Bluey-IceAssets_84: 6578015684941691849
+      Bluey-IceAssets_85: 3927476234809085683
+      Bluey-IceAssets_86: 2090345592908880329
+      Bluey-IceAssets_87: -1665454670165257555
+      Bluey-IceAssets_88: -1650015308018073251
+      Bluey-IceAssets_89: 2916727885442118215
+      Bluey-IceAssets_9: 7437822466801655005
+      Bluey-IceAssets_90: -6398542161889310644
+      Bluey-IceAssets_91: 6289079117878790432
+      Bluey-IceAssets_92: -2842175722781027106
+      Bluey-IceAssets_93: -7935759437110360410
+      Bluey-IceAssets_94: 2403865297289034031
+      Bluey-IceAssets_95: -1431505802666328404
+      Bluey-IceAssets_96: 3997591246448917543
+      Bluey-IceAssets_97: -3607046134775505435
+      Bluey-IceAssets_98: -1117486737392733796
+      Bluey-IceAssets_99: 1691918613756813676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
