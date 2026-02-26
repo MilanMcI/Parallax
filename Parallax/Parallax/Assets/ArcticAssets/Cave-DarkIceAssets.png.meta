@@ -1,0 +1,5616 @@
+fileFormatVersion: 2
+guid: 9f8ee2cb7bcbd8347a01363d700b4a13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 956062352306522255
+    second: Cave-DarkIceAssets_0
+  - first:
+      213: 7820577500294338688
+    second: Cave-DarkIceAssets_1
+  - first:
+      213: 7862197362532523526
+    second: Cave-DarkIceAssets_2
+  - first:
+      213: -139966587684633242
+    second: Cave-DarkIceAssets_3
+  - first:
+      213: 4466925461394737762
+    second: Cave-DarkIceAssets_4
+  - first:
+      213: 3974683641709458224
+    second: Cave-DarkIceAssets_5
+  - first:
+      213: -1033060158275065427
+    second: Cave-DarkIceAssets_6
+  - first:
+      213: -2417809743142483928
+    second: Cave-DarkIceAssets_7
+  - first:
+      213: 2569455986759079204
+    second: Cave-DarkIceAssets_8
+  - first:
+      213: -4697751641264445799
+    second: Cave-DarkIceAssets_9
+  - first:
+      213: -3983315528907362315
+    second: Cave-DarkIceAssets_10
+  - first:
+      213: -6338719092826658321
+    second: Cave-DarkIceAssets_11
+  - first:
+      213: -2209709248562450448
+    second: Cave-DarkIceAssets_12
+  - first:
+      213: -5397056211439751421
+    second: Cave-DarkIceAssets_13
+  - first:
+      213: -4148662278272133197
+    second: Cave-DarkIceAssets_14
+  - first:
+      213: -6295779522757958890
+    second: Cave-DarkIceAssets_15
+  - first:
+      213: 1835889657354005940
+    second: Cave-DarkIceAssets_16
+  - first:
+      213: 8543882398946622402
+    second: Cave-DarkIceAssets_17
+  - first:
+      213: -8640804826951090990
+    second: Cave-DarkIceAssets_18
+  - first:
+      213: 6972839663481323905
+    second: Cave-DarkIceAssets_19
+  - first:
+      213: -392610989866426480
+    second: Cave-DarkIceAssets_20
+  - first:
+      213: -1337824501700924235
+    second: Cave-DarkIceAssets_21
+  - first:
+      213: -8410091430083541977
+    second: Cave-DarkIceAssets_22
+  - first:
+      213: -822000623233325870
+    second: Cave-DarkIceAssets_23
+  - first:
+      213: -8997607720278033652
+    second: Cave-DarkIceAssets_24
+  - first:
+      213: -8178421261675453998
+    second: Cave-DarkIceAssets_25
+  - first:
+      213: 8667593944631730469
+    second: Cave-DarkIceAssets_26
+  - first:
+      213: -7362934849406292182
+    second: Cave-DarkIceAssets_27
+  - first:
+      213: -8964485204339901170
+    second: Cave-DarkIceAssets_28
+  - first:
+      213: -3388764976828437137
+    second: Cave-DarkIceAssets_29
+  - first:
+      213: 4392806802006441393
+    second: Cave-DarkIceAssets_30
+  - first:
+      213: 4358262498871924166
+    second: Cave-DarkIceAssets_31
+  - first:
+      213: -2693723004469900337
+    second: Cave-DarkIceAssets_32
+  - first:
+      213: 8445368060735015740
+    second: Cave-DarkIceAssets_33
+  - first:
+      213: -7781681010675458193
+    second: Cave-DarkIceAssets_34
+  - first:
+      213: 5721415627286630962
+    second: Cave-DarkIceAssets_35
+  - first:
+      213: 8589321159370011810
+    second: Cave-DarkIceAssets_36
+  - first:
+      213: 4424387198272584800
+    second: Cave-DarkIceAssets_37
+  - first:
+      213: -755154879933063236
+    second: Cave-DarkIceAssets_38
+  - first:
+      213: -8999251126756509721
+    second: Cave-DarkIceAssets_39
+  - first:
+      213: 1192806409920372580
+    second: Cave-DarkIceAssets_40
+  - first:
+      213: -8881980533333550924
+    second: Cave-DarkIceAssets_41
+  - first:
+      213: 6831499134951266550
+    second: Cave-DarkIceAssets_42
+  - first:
+      213: 8798544570181405689
+    second: Cave-DarkIceAssets_43
+  - first:
+      213: -5666816903651918359
+    second: Cave-DarkIceAssets_44
+  - first:
+      213: 4315793900609944956
+    second: Cave-DarkIceAssets_45
+  - first:
+      213: -2245160863654060674
+    second: Cave-DarkIceAssets_46
+  - first:
+      213: -6422842499571858100
+    second: Cave-DarkIceAssets_47
+  - first:
+      213: 2186539083022893095
+    second: Cave-DarkIceAssets_48
+  - first:
+      213: 4600343977221376125
+    second: Cave-DarkIceAssets_49
+  - first:
+      213: -2358464617658037286
+    second: Cave-DarkIceAssets_50
+  - first:
+      213: -2648711284860270308
+    second: Cave-DarkIceAssets_51
+  - first:
+      213: 8532780599778085478
+    second: Cave-DarkIceAssets_52
+  - first:
+      213: 1105069155810587591
+    second: Cave-DarkIceAssets_53
+  - first:
+      213: -9208570481597658723
+    second: Cave-DarkIceAssets_54
+  - first:
+      213: -5790998186486137496
+    second: Cave-DarkIceAssets_55
+  - first:
+      213: 2185977998803206644
+    second: Cave-DarkIceAssets_56
+  - first:
+      213: 8160948266738354165
+    second: Cave-DarkIceAssets_57
+  - first:
+      213: 5583250742451357881
+    second: Cave-DarkIceAssets_58
+  - first:
+      213: 5884560510216124868
+    second: Cave-DarkIceAssets_59
+  - first:
+      213: 2738664583746557038
+    second: Cave-DarkIceAssets_60
+  - first:
+      213: -8738290279408740492
+    second: Cave-DarkIceAssets_61
+  - first:
+      213: 659835240622555496
+    second: Cave-DarkIceAssets_62
+  - first:
+      213: -7192322772810537004
+    second: Cave-DarkIceAssets_63
+  - first:
+      213: -1787935870663501650
+    second: Cave-DarkIceAssets_64
+  - first:
+      213: -8188655163878283140
+    second: Cave-DarkIceAssets_65
+  - first:
+      213: 6995077510175780607
+    second: Cave-DarkIceAssets_66
+  - first:
+      213: -2743125845803442457
+    second: Cave-DarkIceAssets_67
+  - first:
+      213: -5378096637251153283
+    second: Cave-DarkIceAssets_68
+  - first:
+      213: -9049440030584848771
+    second: Cave-DarkIceAssets_69
+  - first:
+      213: -8462254573223109616
+    second: Cave-DarkIceAssets_70
+  - first:
+      213: 6344050591429731343
+    second: Cave-DarkIceAssets_71
+  - first:
+      213: 968504378384914936
+    second: Cave-DarkIceAssets_72
+  - first:
+      213: -2039279284077988018
+    second: Cave-DarkIceAssets_73
+  - first:
+      213: 168347509668884647
+    second: Cave-DarkIceAssets_74
+  - first:
+      213: -2792970456629425274
+    second: Cave-DarkIceAssets_75
+  - first:
+      213: 5683521431260223351
+    second: Cave-DarkIceAssets_76
+  - first:
+      213: 2871598784885191270
+    second: Cave-DarkIceAssets_77
+  - first:
+      213: 6570584075142953832
+    second: Cave-DarkIceAssets_78
+  - first:
+      213: -5533745826571583767
+    second: Cave-DarkIceAssets_79
+  - first:
+      213: 1343277646436152300
+    second: Cave-DarkIceAssets_80
+  - first:
+      213: 3870479596730264526
+    second: Cave-DarkIceAssets_81
+  - first:
+      213: -3544598041345623865
+    second: Cave-DarkIceAssets_82
+  - first:
+      213: 3737099311880096459
+    second: Cave-DarkIceAssets_83
+  - first:
+      213: 4106025063255322009
+    second: Cave-DarkIceAssets_84
+  - first:
+      213: -6738898597183776425
+    second: Cave-DarkIceAssets_85
+  - first:
+      213: 8148323483340430476
+    second: Cave-DarkIceAssets_86
+  - first:
+      213: 2491535414932358199
+    second: Cave-DarkIceAssets_87
+  - first:
+      213: -5772196195138498825
+    second: Cave-DarkIceAssets_88
+  - first:
+      213: -897657873608179539
+    second: Cave-DarkIceAssets_89
+  - first:
+      213: -7973911050491311863
+    second: Cave-DarkIceAssets_90
+  - first:
+      213: 6997236902182902844
+    second: Cave-DarkIceAssets_91
+  - first:
+      213: -6334886514862315922
+    second: Cave-DarkIceAssets_92
+  - first:
+      213: -6328624269153153927
+    second: Cave-DarkIceAssets_93
+  - first:
+      213: 491800552418934592
+    second: Cave-DarkIceAssets_94
+  - first:
+      213: -8087555625805156165
+    second: Cave-DarkIceAssets_95
+  - first:
+      213: 4901840775376818052
+    second: Cave-DarkIceAssets_96
+  - first:
+      213: 8312626548497116458
+    second: Cave-DarkIceAssets_97
+  - first:
+      213: 7643313933128852977
+    second: Cave-DarkIceAssets_98
+  - first:
+      213: 3389069546395487396
+    second: Cave-DarkIceAssets_99
+  - first:
+      213: 3349824255119351953
+    second: Cave-DarkIceAssets_100
+  - first:
+      213: -6647355678626639027
+    second: Cave-DarkIceAssets_101
+  - first:
+      213: -9067405167948560280
+    second: Cave-DarkIceAssets_102
+  - first:
+      213: 5288135821279930741
+    second: Cave-DarkIceAssets_103
+  - first:
+      213: 6691909606386582054
+    second: Cave-DarkIceAssets_104
+  - first:
+      213: 4540075337729023107
+    second: Cave-DarkIceAssets_105
+  - first:
+      213: -2411664487640621058
+    second: Cave-DarkIceAssets_106
+  - first:
+      213: -1248059654702295582
+    second: Cave-DarkIceAssets_107
+  - first:
+      213: -6207428874536952626
+    second: Cave-DarkIceAssets_108
+  - first:
+      213: -9159716147465920546
+    second: Cave-DarkIceAssets_109
+  - first:
+      213: 6906407309101711289
+    second: Cave-DarkIceAssets_110
+  - first:
+      213: -2631707421158320362
+    second: Cave-DarkIceAssets_111
+  - first:
+      213: 7178570447334494684
+    second: Cave-DarkIceAssets_112
+  - first:
+      213: -3795607922062032703
+    second: Cave-DarkIceAssets_113
+  - first:
+      213: -1091369930632573132
+    second: Cave-DarkIceAssets_114
+  - first:
+      213: 1018287956253169571
+    second: Cave-DarkIceAssets_115
+  - first:
+      213: 9079134811060544405
+    second: Cave-DarkIceAssets_116
+  - first:
+      213: -3877853352005587853
+    second: Cave-DarkIceAssets_117
+  - first:
+      213: -292055852636421633
+    second: Cave-DarkIceAssets_118
+  - first:
+      213: -3760480986848785758
+    second: Cave-DarkIceAssets_119
+  - first:
+      213: -3178454710177717638
+    second: Cave-DarkIceAssets_120
+  - first:
+      213: -3563577359286129492
+    second: Cave-DarkIceAssets_121
+  - first:
+      213: -8352780189111708662
+    second: Cave-DarkIceAssets_122
+  - first:
+      213: 4064834879933781805
+    second: Cave-DarkIceAssets_123
+  - first:
+      213: 5101858215732673020
+    second: Cave-DarkIceAssets_124
+  - first:
+      213: -6237390120304839321
+    second: Cave-DarkIceAssets_125
+  - first:
+      213: -4331542292476983649
+    second: Cave-DarkIceAssets_126
+  - first:
+      213: 4766295173800508865
+    second: Cave-DarkIceAssets_127
+  - first:
+      213: 7225519273481088013
+    second: Cave-DarkIceAssets_128
+  - first:
+      213: 6557547031888423270
+    second: Cave-DarkIceAssets_129
+  - first:
+      213: -211659514734286052
+    second: Cave-DarkIceAssets_130
+  - first:
+      213: -4666525504696509714
+    second: Cave-DarkIceAssets_131
+  - first:
+      213: -74704433697172621
+    second: Cave-DarkIceAssets_132
+  - first:
+      213: -7448177655616676970
+    second: Cave-DarkIceAssets_133
+  - first:
+      213: 3359026588324916086
+    second: Cave-DarkIceAssets_134
+  - first:
+      213: -3225671140541204620
+    second: Cave-DarkIceAssets_135
+  - first:
+      213: 2974777402759037441
+    second: Cave-DarkIceAssets_136
+  - first:
+      213: 382660055391570022
+    second: Cave-DarkIceAssets_137
+  - first:
+      213: -8589772328350940307
+    second: Cave-DarkIceAssets_138
+  - first:
+      213: -5558773260466039835
+    second: Cave-DarkIceAssets_139
+  - first:
+      213: -336727306465668107
+    second: Cave-DarkIceAssets_140
+  - first:
+      213: 7115341516176066650
+    second: Cave-DarkIceAssets_141
+  - first:
+      213: -516828312523917553
+    second: Cave-DarkIceAssets_142
+  - first:
+      213: -3464590226432119810
+    second: Cave-DarkIceAssets_143
+  - first:
+      213: 9049217240061038088
+    second: Cave-DarkIceAssets_144
+  - first:
+      213: 3023450327376095315
+    second: Cave-DarkIceAssets_145
+  - first:
+      213: -1834664841892333621
+    second: Cave-DarkIceAssets_146
+  - first:
+      213: -3923790035394214063
+    second: Cave-DarkIceAssets_147
+  - first:
+      213: -9180450162359817843
+    second: Cave-DarkIceAssets_148
+  - first:
+      213: 3023978979216604818
+    second: Cave-DarkIceAssets_149
+  - first:
+      213: -7288593958124087357
+    second: Cave-DarkIceAssets_150
+  - first:
+      213: -2368118759646114515
+    second: Cave-DarkIceAssets_151
+  - first:
+      213: 2575558265224487827
+    second: Cave-DarkIceAssets_152
+  - first:
+      213: 1313259988424224305
+    second: Cave-DarkIceAssets_153
+  - first:
+      213: -2517282329772410628
+    second: Cave-DarkIceAssets_154
+  - first:
+      213: -8211249440315710290
+    second: Cave-DarkIceAssets_155
+  - first:
+      213: -6355145768312821762
+    second: Cave-DarkIceAssets_156
+  - first:
+      213: -5954125201427345355
+    second: Cave-DarkIceAssets_157
+  - first:
+      213: 281867217817150433
+    second: Cave-DarkIceAssets_158
+  - first:
+      213: -9177717806578352216
+    second: Cave-DarkIceAssets_159
+  - first:
+      213: -1824488881513615740
+    second: Cave-DarkIceAssets_160
+  - first:
+      213: 9006816882115942999
+    second: Cave-DarkIceAssets_161
+  - first:
+      213: -9161821938845082333
+    second: Cave-DarkIceAssets_162
+  - first:
+      213: 1470497545046069641
+    second: Cave-DarkIceAssets_163
+  - first:
+      213: 802042988457050160
+    second: Cave-DarkIceAssets_164
+  - first:
+      213: 1885796854307884017
+    second: Cave-DarkIceAssets_165
+  - first:
+      213: 4650628496013444681
+    second: Cave-DarkIceAssets_166
+  - first:
+      213: -5117040745990499069
+    second: Cave-DarkIceAssets_167
+  - first:
+      213: 4562453799806283588
+    second: Cave-DarkIceAssets_168
+  - first:
+      213: -6600058025313383615
+    second: Cave-DarkIceAssets_169
+  - first:
+      213: -5578218642835489261
+    second: Cave-DarkIceAssets_170
+  - first:
+      213: -7419731463244059178
+    second: Cave-DarkIceAssets_171
+  - first:
+      213: -6569141808353159192
+    second: Cave-DarkIceAssets_172
+  - first:
+      213: -9193290727636520364
+    second: Cave-DarkIceAssets_173
+  - first:
+      213: -1854330128606508663
+    second: Cave-DarkIceAssets_174
+  - first:
+      213: -7161910715940744223
+    second: Cave-DarkIceAssets_175
+  - first:
+      213: 1016537350831072874
+    second: Cave-DarkIceAssets_176
+  - first:
+      213: -8394903721802742909
+    second: Cave-DarkIceAssets_177
+  - first:
+      213: -2327471616340450762
+    second: Cave-DarkIceAssets_178
+  - first:
+      213: -7604086481359494073
+    second: Cave-DarkIceAssets_179
+  - first:
+      213: -896296965326221287
+    second: Cave-DarkIceAssets_180
+  - first:
+      213: 2688024668081029804
+    second: Cave-DarkIceAssets_181
+  - first:
+      213: 3874708247040405928
+    second: Cave-DarkIceAssets_182
+  - first:
+      213: -7177827766587836491
+    second: Cave-DarkIceAssets_183
+  - first:
+      213: 5447769562357014695
+    second: Cave-DarkIceAssets_184
+  - first:
+      213: 8416442799693810062
+    second: Cave-DarkIceAssets_185
+  - first:
+      213: 1994298666512495456
+    second: Cave-DarkIceAssets_186
+  - first:
+      213: 3447689947143447591
+    second: Cave-DarkIceAssets_187
+  - first:
+      213: 517113357897518433
+    second: Cave-DarkIceAssets_188
+  - first:
+      213: 6656578588739007273
+    second: Cave-DarkIceAssets_189
+  - first:
+      213: -1206637773283172785
+    second: Cave-DarkIceAssets_190
+  - first:
+      213: -8354304106295150242
+    second: Cave-DarkIceAssets_191
+  - first:
+      213: -6510639094430962722
+    second: Cave-DarkIceAssets_192
+  - first:
+      213: 1387105257983635624
+    second: Cave-DarkIceAssets_193
+  - first:
+      213: -6225111303155241734
+    second: Cave-DarkIceAssets_194
+  - first:
+      213: -2459759432850225882
+    second: Cave-DarkIceAssets_195
+  - first:
+      213: -1885408772297323104
+    second: Cave-DarkIceAssets_196
+  - first:
+      213: 7068565563068870890
+    second: Cave-DarkIceAssets_197
+  - first:
+      213: 2732315936967535312
+    second: Cave-DarkIceAssets_198
+  - first:
+      213: -530694586444460646
+    second: Cave-DarkIceAssets_199
+  - first:
+      213: -3445241056803841230
+    second: Cave-DarkIceAssets_200
+  - first:
+      213: 8535518670979451108
+    second: Cave-DarkIceAssets_201
+  - first:
+      213: -4774834592920285519
+    second: Cave-DarkIceAssets_202
+  - first:
+      213: 2957455885730025174
+    second: Cave-DarkIceAssets_203
+  - first:
+      213: 3904753824339928263
+    second: Cave-DarkIceAssets_204
+  - first:
+      213: -853688858356929661
+    second: Cave-DarkIceAssets_205
+  - first:
+      213: -4927210459930235833
+    second: Cave-DarkIceAssets_206
+  - first:
+      213: -3114793063751145021
+    second: Cave-DarkIceAssets_207
+  - first:
+      213: 8628774567517118527
+    second: Cave-DarkIceAssets_208
+  - first:
+      213: -3335427910311205450
+    second: Cave-DarkIceAssets_209
+  - first:
+      213: 4878611078718131480
+    second: Cave-DarkIceAssets_210
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 959
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88ca5cd4ad944d00800000000000000
+      internalID: 956062352306522255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 943
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088d4732dc5488c60800000000000000
+      internalID: 7820577500294338688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 975
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e93c378d22c1d60800000000000000
+      internalID: 7862197362532523526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 975
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66542ac412dbe0ef0800000000000000
+      internalID: -139966587684633242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 975
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ac4945a05bdfd30800000000000000
+      internalID: 4466925461394737762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 959
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033f5ae96b9e82730800000000000000
+      internalID: 3974683641709458224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 975
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9e76a6245d9a1f0800000000000000
+      internalID: -1033060158275065427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 975
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828838549d6327ed0800000000000000
+      internalID: -2417809743142483928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 975
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42596cc3b9a88a320800000000000000
+      internalID: 2569455986759079204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 975
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996ac63a5cb3eceb0800000000000000
+      internalID: -4697751641264445799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 975
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffed2781ab68b8c0800000000000000
+      internalID: -3983315528907362315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 943
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9a41da1985808a0800000000000000
+      internalID: -6338719092826658321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_12
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 991
+        width: 172
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff2a8e55298551e0800000000000000
+      internalID: -2209709248562450448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_13
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 943
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f615478fdc915b0800000000000000
+      internalID: -5397056211439751421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 943
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7d68273adfc66c0800000000000000
+      internalID: -4148662278272133197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 943
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61365d961e5e0a8a0800000000000000
+      internalID: -6295779522757958890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 943
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd26699ae36a7910800000000000000
+      internalID: 1835889657354005940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 943
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbfcef36c7f19670800000000000000
+      internalID: 8543882398946622402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 943
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc79147ac1b51880800000000000000
+      internalID: -8640804826951090990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_19
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 943
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1810f81fab084c060800000000000000
+      internalID: 6972839663481323905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 943
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fd816826a2d8af0800000000000000
+      internalID: -392610989866426480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_21
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 959
+        width: 172
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc6d4c24b71f6de0800000000000000
+      internalID: -1337824501700924235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 895
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7244055276a594b80800000000000000
+      internalID: -8410091430083541977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 897
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4270fc9caa794f0800000000000000
+      internalID: -822000623233325870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 896
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bf3842373122380800000000000000
+      internalID: -8997607720278033652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 906
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d125529139608e80800000000000000
+      internalID: -8178421261675453998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 911
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521e91f05ca794870800000000000000
+      internalID: 8667593944631730469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 891
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f2bc4d3c991d990800000000000000
+      internalID: -7362934849406292182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 895
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d3319d330c79380800000000000000
+      internalID: -8964485204339901170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 895
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d2bd04530b8f0d0800000000000000
+      internalID: -3388764976828437137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 886
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd7388238266fc30800000000000000
+      internalID: 4392806802006441393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 895
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5da23d6a8ab7c30800000000000000
+      internalID: 4358262498871924166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_32
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 895
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb064b0339fd9ad0800000000000000
+      internalID: -2693723004469900337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_33
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 911
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b4a897189f33570800000000000000
+      internalID: 8445368060735015740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 906
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f5943995ae10490800000000000000
+      internalID: -7781681010675458193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_35
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 896
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232d9cc133d866f40800000000000000
+      internalID: 5721415627286630962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_36
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 897
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4fef51616633770800000000000000
+      internalID: 8589321159370011810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_37
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 895
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cb2d527b4966d30800000000000000
+      internalID: 4424387198272584800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_38
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 879
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfdf2f33a62585f0800000000000000
+      internalID: -755154879933063236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_39
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 879
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7f421c7cc3c1380800000000000000
+      internalID: -8999251126756509721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_40
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 879
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fdc1d2c13bd8010800000000000000
+      internalID: 1192806409920372580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_41
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 847
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b818b083cddcb480800000000000000
+      internalID: -8881980533333550924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 879
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f89826b44c5ece50800000000000000
+      internalID: 6831499134951266550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 879
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbca1e7ba5ba1a70800000000000000
+      internalID: 8798544570181405689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 879
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edf5aadc0c6b51b0800000000000000
+      internalID: -5666816903651918359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 879
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d37a1cfa7c4eb30800000000000000
+      internalID: 4315793900609944956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 815
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d5a42071697d0e0800000000000000
+      internalID: -2245160863654060674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 815
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45ccbcb6ca7dd6a0800000000000000
+      internalID: -6422842499571858100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 815
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720861316b5285e10800000000000000
+      internalID: 2186539083022893095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_49
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 831
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7843ee3974b7df30800000000000000
+      internalID: 4600343977221376125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_50
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 831
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb4a290dec054fd0800000000000000
+      internalID: -2358464617658037286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 815
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19c551be13ed3bd0800000000000000
+      internalID: -2648711284860270308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_52
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 815
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a0e143fb68a6670800000000000000
+      internalID: 8532780599778085478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_53
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 831
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3b454da8ef55f00800000000000000
+      internalID: 1105069155810587591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_54
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 831
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d994933afe5943080800000000000000
+      internalID: -9208570481597658723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_55
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 815
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dff87d4dd32afa0800000000000000
+      internalID: -5790998186486137496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_56
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 815
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f10c797867265e10800000000000000
+      internalID: 2185977998803206644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_57
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 815
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f78745c533814170800000000000000
+      internalID: 8160948266738354165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_58
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 815
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8cfbb08f0bb7d40800000000000000
+      internalID: 5583250742451357881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_59
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 815
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c939b63b982aa150800000000000000
+      internalID: 5884560510216124868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 751
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e641829cde0b10620800000000000000
+      internalID: 2738664583746557038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 768
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477d79fc94b5bb680800000000000000
+      internalID: -8738290279408740492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_62
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 767
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8618797c7a4382900800000000000000
+      internalID: 659835240622555496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7eca07b8cbf2c90800000000000000
+      internalID: -7192322772810537004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_64
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea85ceb6cc9ff27e0800000000000000
+      internalID: -1787935870663501650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78edd8838d0c5e80800000000000000
+      internalID: -8188655163878283140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffee95a1fe1831160800000000000000
+      internalID: 6995077510175780607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_67
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee51b2b3957ee9d0800000000000000
+      internalID: -2743125845803442457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_68
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d721ce05a992d55b0800000000000000
+      internalID: -5378096637251153283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_69
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e3ac8fc3ee96280800000000000000
+      internalID: -9049440030584848771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_70
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 783
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c9c14fc48009a80800000000000000
+      internalID: -8462254573223109616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_71
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 767
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04a64396689a0850800000000000000
+      internalID: 6344050591429731343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_72
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 768
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f91b0dc991d07d00800000000000000
+      internalID: 968504378384914936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_73
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 751
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47f7b2bb4603b3e0800000000000000
+      internalID: -2039279284077988018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_74
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 783
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0b2a80b27165200800000000000000
+      internalID: 168347509668884647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_75
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b4170ea206d39d0800000000000000
+      internalID: -2792970456629425274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_76
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777d59f01acefde40800000000000000
+      internalID: 5683521431260223351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662768661e7f9d720800000000000000
+      internalID: 2871598784885191270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_78
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bfbb567676f2b50800000000000000
+      internalID: 6570584075142953832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_79
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee76e16d7f2433b0800000000000000
+      internalID: -5533745826571583767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_80
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 751
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3bc8607e744a210800000000000000
+      internalID: 1343277646436152300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_81
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 719
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb2181cfa4b6b530800000000000000
+      internalID: 3870479596730264526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_82
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c87c0a8cde0fcec0800000000000000
+      internalID: -3544598041345623865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_83
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca48fe2608dcd330800000000000000
+      internalID: 3737099311880096459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_84
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d2f265a088bf830800000000000000
+      internalID: 4106025063255322009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_85
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7599b791e6f9a72a0800000000000000
+      internalID: -6738898597183776425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_86
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cda735909a41170800000000000000
+      internalID: 8148323483340430476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_87
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 719
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73449585246b39220800000000000000
+      internalID: 2491535414932358199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 719
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe88e6942a05efa0800000000000000
+      internalID: -5772196195138498825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_89
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 719
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da080c18be0ea83f0800000000000000
+      internalID: -897657873608179539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_90
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 643
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90947eca52af65190800000000000000
+      internalID: -7973911050491311863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_91
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 643
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cdddbb3ed2b1160800000000000000
+      internalID: 6997236902182902844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 671
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6628354746f518a0800000000000000
+      internalID: -6334886514862315922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_93
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 671
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cc538f1c53c28a0800000000000000
+      internalID: -6328624269153153927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_94
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 671
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f754b2ff933d600800000000000000
+      internalID: 491800552418934592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 671
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0fbae020b33cf80800000000000000
+      internalID: -8087555625805156165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_96
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 623
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f4cd1d636d60440800000000000000
+      internalID: 4901840775376818052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_97
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 623
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de6adbdc16c5370800000000000000
+      internalID: 8312626548497116458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_98
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 623
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f560f2b681821a60800000000000000
+      internalID: 7643313933128852977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_99
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 623
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac4fffdbc4680f20800000000000000
+      internalID: 3389069546395487396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_100
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 623
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19060627967fc7e20800000000000000
+      internalID: 3349824255119351953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_101
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 623
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4398cfba39dfb3a0800000000000000
+      internalID: -6647355678626639027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_102
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 623
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86882e97a0b1a2280800000000000000
+      internalID: -9067405167948560280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_103
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 623
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579a86ff28b336940800000000000000
+      internalID: 5288135821279930741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_104
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 527
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62242bde4507edc50800000000000000
+      internalID: 6691909606386582054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_105
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 527
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c99de1776910f30800000000000000
+      internalID: 4540075337729023107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 543
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff91c01deb088ed0800000000000000
+      internalID: -2411664487640621058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_107
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 543
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e519f64b500eaee0800000000000000
+      internalID: -1248059654702295582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_108
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 543
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccd8b4b358cad9a0800000000000000
+      internalID: -6207428874536952626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_109
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 543
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf52e2b1b622e080800000000000000
+      internalID: -9159716147465920546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_110
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 543
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf3b2d1bdc78df50800000000000000
+      internalID: 6906407309101711289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_111
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 543
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61759193b0c4a7bd0800000000000000
+      internalID: -2631707421158320362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_112
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 543
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd15d74c9c76f9360800000000000000
+      internalID: 7178570447334494684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_113
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 543
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c085d274ba435bc0800000000000000
+      internalID: -3795607922062032703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_114
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 543
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f4a1694dcaad0f0800000000000000
+      internalID: -1091369930632573132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_115
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 543
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a75787408fa12e00800000000000000
+      internalID: 1018287956253169571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_116
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 527
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593a521e1019ffd70800000000000000
+      internalID: 9079134811060544405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_117
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 527
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c26ae0ce81f2ac0800000000000000
+      internalID: -3877853352005587853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_118
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 479
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff14809dfb862fbf0800000000000000
+      internalID: -292055852636421633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_119
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 511
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa8442677610dbc0800000000000000
+      internalID: -3760480986848785758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_120
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 495
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72a031084cd3e3d0800000000000000
+      internalID: -3178454710177717638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_121
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 495
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac202ab541ab8ec0800000000000000
+      internalID: -3563577359286129492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_122
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 495
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0493154ca6f41c80800000000000000
+      internalID: -8352780189111708662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_123
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 495
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27121179c1396830800000000000000
+      internalID: 4064834879933781805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_124
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 511
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9772334017dc640800000000000000
+      internalID: 5101858215732673020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_125
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 479
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765f2b19bb65079a0800000000000000
+      internalID: -6237390120304839321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_126
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 431
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9604570c3543e3c0800000000000000
+      internalID: -4331542292476983649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_127
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 431
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdb9092538452240800000000000000
+      internalID: 4766295173800508865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_128
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c249d2f73364460800000000000000
+      internalID: 7225519273481088013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_129
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66960a93846110b50800000000000000
+      internalID: 6557547031888423270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_130
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 415
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b6ee2fac8001df0800000000000000
+      internalID: -211659514734286052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_131
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 351
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea934d17cb2d3fb0800000000000000
+      internalID: -4666525504696509714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_132
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 415
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373555e96b896fef0800000000000000
+      internalID: -74704433697172621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_133
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 351
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b57f462e1c2a890800000000000000
+      internalID: -7448177655616676970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_134
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 415
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67be23c92e8ad9e20800000000000000
+      internalID: 3359026588324916086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_135
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477ffc1203d1c33d0800000000000000
+      internalID: -3225671140541204620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_136
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 351
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102cf496948884920800000000000000
+      internalID: 2974777402759037441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_137
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 351
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668885ffa4b7f4500800000000000000
+      internalID: 382660055391570022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_138
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 351
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d638923f39ffac880800000000000000
+      internalID: -8589772328350940307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_139
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 351
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e35bf6db254bd2b0800000000000000
+      internalID: -5558773260466039835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_140
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 351
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f390ff7c44b35bf0800000000000000
+      internalID: -336727306465668107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_141
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 351
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5883470965ceb260800000000000000
+      internalID: 7115341516176066650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_142
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 351
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07b526536bd3d8f0800000000000000
+      internalID: -516828312523917553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_143
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 351
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb29359b8d4befc0800000000000000
+      internalID: -3464590226432119810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_144
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 351
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ecd219227459d70800000000000000
+      internalID: 9049217240061038088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_145
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3586a47cd0475f920800000000000000
+      internalID: 3023450327376095315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_146
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7fb19fb06f986e0800000000000000
+      internalID: -1834664841892333621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_147
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1574c1f70c5eb89c0800000000000000
+      internalID: -3923790035394214063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_148
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89ad5aa73d789080800000000000000
+      internalID: -9180450162359817843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_149
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e34702cd457f920800000000000000
+      internalID: 3023978979216604818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_150
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c794f56966b9da90800000000000000
+      internalID: -7288593958124087357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_151
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dca51f880c22fd0800000000000000
+      internalID: -2368118759646114515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_152
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393e609a8983eb320800000000000000
+      internalID: 2575558265224487827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_153
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e62c36003a93210800000000000000
+      internalID: 1313259988424224305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_154
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 287
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf83c86ee01d01dd0800000000000000
+      internalID: -2517282329772410628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_155
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 303
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea46bdb9328cb0e80800000000000000
+      internalID: -8211249440315710290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_156
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 303
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef723ef389cfdc7a0800000000000000
+      internalID: -6355145768312821762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_157
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530d8b4fca2be5da0800000000000000
+      internalID: -5954125201427345355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_158
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3a1dfbdb469e300800000000000000
+      internalID: 281867217817150433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_159
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 303
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afbe12d74232a080800000000000000
+      internalID: -9177717806578352216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_160
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 303
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e2bb0670d1ea6e0800000000000000
+      internalID: -1824488881513615740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_161
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a138feb34aefc70800000000000000
+      internalID: 9006816882115942999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_162
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d12cfec7baad080800000000000000
+      internalID: -9161821938845082333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_163
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9811e87e9b1486410800000000000000
+      internalID: 1470497545046069641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_164
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030439d39dd612b00800000000000000
+      internalID: 802042988457050160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_165
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb02936f32bb2a10800000000000000
+      internalID: 1885796854307884017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_166
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946c03f1af95a8040800000000000000
+      internalID: 4650628496013444681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_167
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30559028d8e9cf8b0800000000000000
+      internalID: -5117040745990499069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_168
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fa599de87115f30800000000000000
+      internalID: 4562453799806283588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_169
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bca30d132e764a0800000000000000
+      internalID: -6600058025313383615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_170
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 255
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e3452f2bf2692b0800000000000000
+      internalID: -5578218642835489261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_171
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 255
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd6c8cab81d70990800000000000000
+      internalID: -7419731463244059178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_172
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e751f18458b5d4a0800000000000000
+      internalID: -6569141808353159192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_173
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45235569aceda6080800000000000000
+      internalID: -9193290727636520364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_174
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989ca1c92981446e0800000000000000
+      internalID: -1854330128606508663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_175
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3d9473628cb9c90800000000000000
+      internalID: -7161910715940744223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_176
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66e331b5577b1e00800000000000000
+      internalID: 1016537350831072874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_177
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383c75a0b8f4f7b80800000000000000
+      internalID: -8394903721802742909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_178
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 223
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632293b75e823bfd0800000000000000
+      internalID: -2327471616340450762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_179
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 191
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744a73522abd87690800000000000000
+      internalID: -7604086481359494073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_180
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 223
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9105878a8a6bf83f0800000000000000
+      internalID: -896296965326221287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_181
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca20570a138cd4520800000000000000
+      internalID: 2688024668081029804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_182
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1be112f9ab5c530800000000000000
+      internalID: 3874708247040405928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_183
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7b8911dab336c90800000000000000
+      internalID: -7177827766587836491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_184
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0a97ead8d5a9b40800000000000000
+      internalID: 5447769562357014695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_185
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89c42452263dc470800000000000000
+      internalID: 8416442799693810062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_186
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 143
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0633389221c2dab10800000000000000
+      internalID: 1994298666512495456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_187
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724ab238db7a8df20800000000000000
+      internalID: 3447689947143447591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_188
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d4716fbd72d2700800000000000000
+      internalID: 517113357897518433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_189
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923724955fae06c50800000000000000
+      internalID: 6656578588739007273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_190
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 191
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e53e69659214fe0800000000000000
+      internalID: -1206637773283172785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_191
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 191
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59b0b6adac8f0c80800000000000000
+      internalID: -8354304106295150242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_192
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 116
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbebab0d3095a5a0800000000000000
+      internalID: -6510639094430962722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_193
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0f03802ecff3310800000000000000
+      internalID: 1387105257983635624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_194
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afca9287046fb99a0800000000000000
+      internalID: -6225111303155241734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_195
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 116
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625cb0404dd2dddd0800000000000000
+      internalID: -2459759432850225882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_196
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 143
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad00def5bea5d5e0800000000000000
+      internalID: -1885408772297323104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_197
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae07742cde6981260800000000000000
+      internalID: 7068565563068870890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_198
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 143
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daa6154ed22be520800000000000000
+      internalID: 2732315936967535312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_199
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d41cad51892a8f0800000000000000
+      internalID: -530694586444460646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_200
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b9d93338b0030d0800000000000000
+      internalID: -3445241056803841230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_201
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 73
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8c1751201447670800000000000000
+      internalID: 8535518670979451108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_202
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 68
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be4db36c316cbdb0800000000000000
+      internalID: -4774834592920285519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_203
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 70
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de83d3757efa0920800000000000000
+      internalID: 2957455885730025174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_204
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 70
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4212b3ae8703630800000000000000
+      internalID: 3904753824339928263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_205
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 68
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b2de0a1861724f0800000000000000
+      internalID: -853688858356929661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_206
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 73
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ce44231380f9bb0800000000000000
+      internalID: -4927210459930235833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_207
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 63
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9234e163806c4d0800000000000000
+      internalID: -3114793063751145021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_208
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3068cf70c09fb770800000000000000
+      internalID: 8628774567517118527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_209
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 12
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b52af7ccfd26b1d0800000000000000
+      internalID: -3335427910311205450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave-DarkIceAssets_210
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 12
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d87489dee44b340800000000000000
+      internalID: 4878611078718131480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cave-DarkIceAssets_0: 956062352306522255
+      Cave-DarkIceAssets_1: 7820577500294338688
+      Cave-DarkIceAssets_10: -3983315528907362315
+      Cave-DarkIceAssets_100: 3349824255119351953
+      Cave-DarkIceAssets_101: -6647355678626639027
+      Cave-DarkIceAssets_102: -9067405167948560280
+      Cave-DarkIceAssets_103: 5288135821279930741
+      Cave-DarkIceAssets_104: 6691909606386582054
+      Cave-DarkIceAssets_105: 4540075337729023107
+      Cave-DarkIceAssets_106: -2411664487640621058
+      Cave-DarkIceAssets_107: -1248059654702295582
+      Cave-DarkIceAssets_108: -6207428874536952626
+      Cave-DarkIceAssets_109: -9159716147465920546
+      Cave-DarkIceAssets_11: -6338719092826658321
+      Cave-DarkIceAssets_110: 6906407309101711289
+      Cave-DarkIceAssets_111: -2631707421158320362
+      Cave-DarkIceAssets_112: 7178570447334494684
+      Cave-DarkIceAssets_113: -3795607922062032703
+      Cave-DarkIceAssets_114: -1091369930632573132
+      Cave-DarkIceAssets_115: 1018287956253169571
+      Cave-DarkIceAssets_116: 9079134811060544405
+      Cave-DarkIceAssets_117: -3877853352005587853
+      Cave-DarkIceAssets_118: -292055852636421633
+      Cave-DarkIceAssets_119: -3760480986848785758
+      Cave-DarkIceAssets_12: -2209709248562450448
+      Cave-DarkIceAssets_120: -3178454710177717638
+      Cave-DarkIceAssets_121: -3563577359286129492
+      Cave-DarkIceAssets_122: -8352780189111708662
+      Cave-DarkIceAssets_123: 4064834879933781805
+      Cave-DarkIceAssets_124: 5101858215732673020
+      Cave-DarkIceAssets_125: -6237390120304839321
+      Cave-DarkIceAssets_126: -4331542292476983649
+      Cave-DarkIceAssets_127: 4766295173800508865
+      Cave-DarkIceAssets_128: 7225519273481088013
+      Cave-DarkIceAssets_129: 6557547031888423270
+      Cave-DarkIceAssets_13: -5397056211439751421
+      Cave-DarkIceAssets_130: -211659514734286052
+      Cave-DarkIceAssets_131: -4666525504696509714
+      Cave-DarkIceAssets_132: -74704433697172621
+      Cave-DarkIceAssets_133: -7448177655616676970
+      Cave-DarkIceAssets_134: 3359026588324916086
+      Cave-DarkIceAssets_135: -3225671140541204620
+      Cave-DarkIceAssets_136: 2974777402759037441
+      Cave-DarkIceAssets_137: 382660055391570022
+      Cave-DarkIceAssets_138: -8589772328350940307
+      Cave-DarkIceAssets_139: -5558773260466039835
+      Cave-DarkIceAssets_14: -4148662278272133197
+      Cave-DarkIceAssets_140: -336727306465668107
+      Cave-DarkIceAssets_141: 7115341516176066650
+      Cave-DarkIceAssets_142: -516828312523917553
+      Cave-DarkIceAssets_143: -3464590226432119810
+      Cave-DarkIceAssets_144: 9049217240061038088
+      Cave-DarkIceAssets_145: 3023450327376095315
+      Cave-DarkIceAssets_146: -1834664841892333621
+      Cave-DarkIceAssets_147: -3923790035394214063
+      Cave-DarkIceAssets_148: -9180450162359817843
+      Cave-DarkIceAssets_149: 3023978979216604818
+      Cave-DarkIceAssets_15: -6295779522757958890
+      Cave-DarkIceAssets_150: -7288593958124087357
+      Cave-DarkIceAssets_151: -2368118759646114515
+      Cave-DarkIceAssets_152: 2575558265224487827
+      Cave-DarkIceAssets_153: 1313259988424224305
+      Cave-DarkIceAssets_154: -2517282329772410628
+      Cave-DarkIceAssets_155: -8211249440315710290
+      Cave-DarkIceAssets_156: -6355145768312821762
+      Cave-DarkIceAssets_157: -5954125201427345355
+      Cave-DarkIceAssets_158: 281867217817150433
+      Cave-DarkIceAssets_159: -9177717806578352216
+      Cave-DarkIceAssets_16: 1835889657354005940
+      Cave-DarkIceAssets_160: -1824488881513615740
+      Cave-DarkIceAssets_161: 9006816882115942999
+      Cave-DarkIceAssets_162: -9161821938845082333
+      Cave-DarkIceAssets_163: 1470497545046069641
+      Cave-DarkIceAssets_164: 802042988457050160
+      Cave-DarkIceAssets_165: 1885796854307884017
+      Cave-DarkIceAssets_166: 4650628496013444681
+      Cave-DarkIceAssets_167: -5117040745990499069
+      Cave-DarkIceAssets_168: 4562453799806283588
+      Cave-DarkIceAssets_169: -6600058025313383615
+      Cave-DarkIceAssets_17: 8543882398946622402
+      Cave-DarkIceAssets_170: -5578218642835489261
+      Cave-DarkIceAssets_171: -7419731463244059178
+      Cave-DarkIceAssets_172: -6569141808353159192
+      Cave-DarkIceAssets_173: -9193290727636520364
+      Cave-DarkIceAssets_174: -1854330128606508663
+      Cave-DarkIceAssets_175: -7161910715940744223
+      Cave-DarkIceAssets_176: 1016537350831072874
+      Cave-DarkIceAssets_177: -8394903721802742909
+      Cave-DarkIceAssets_178: -2327471616340450762
+      Cave-DarkIceAssets_179: -7604086481359494073
+      Cave-DarkIceAssets_18: -8640804826951090990
+      Cave-DarkIceAssets_180: -896296965326221287
+      Cave-DarkIceAssets_181: 2688024668081029804
+      Cave-DarkIceAssets_182: 3874708247040405928
+      Cave-DarkIceAssets_183: -7177827766587836491
+      Cave-DarkIceAssets_184: 5447769562357014695
+      Cave-DarkIceAssets_185: 8416442799693810062
+      Cave-DarkIceAssets_186: 1994298666512495456
+      Cave-DarkIceAssets_187: 3447689947143447591
+      Cave-DarkIceAssets_188: 517113357897518433
+      Cave-DarkIceAssets_189: 6656578588739007273
+      Cave-DarkIceAssets_19: 6972839663481323905
+      Cave-DarkIceAssets_190: -1206637773283172785
+      Cave-DarkIceAssets_191: -8354304106295150242
+      Cave-DarkIceAssets_192: -6510639094430962722
+      Cave-DarkIceAssets_193: 1387105257983635624
+      Cave-DarkIceAssets_194: -6225111303155241734
+      Cave-DarkIceAssets_195: -2459759432850225882
+      Cave-DarkIceAssets_196: -1885408772297323104
+      Cave-DarkIceAssets_197: 7068565563068870890
+      Cave-DarkIceAssets_198: 2732315936967535312
+      Cave-DarkIceAssets_199: -530694586444460646
+      Cave-DarkIceAssets_2: 7862197362532523526
+      Cave-DarkIceAssets_20: -392610989866426480
+      Cave-DarkIceAssets_200: -3445241056803841230
+      Cave-DarkIceAssets_201: 8535518670979451108
+      Cave-DarkIceAssets_202: -4774834592920285519
+      Cave-DarkIceAssets_203: 2957455885730025174
+      Cave-DarkIceAssets_204: 3904753824339928263
+      Cave-DarkIceAssets_205: -853688858356929661
+      Cave-DarkIceAssets_206: -4927210459930235833
+      Cave-DarkIceAssets_207: -3114793063751145021
+      Cave-DarkIceAssets_208: 8628774567517118527
+      Cave-DarkIceAssets_209: -3335427910311205450
+      Cave-DarkIceAssets_21: -1337824501700924235
+      Cave-DarkIceAssets_210: 4878611078718131480
+      Cave-DarkIceAssets_22: -8410091430083541977
+      Cave-DarkIceAssets_23: -822000623233325870
+      Cave-DarkIceAssets_24: -8997607720278033652
+      Cave-DarkIceAssets_25: -8178421261675453998
+      Cave-DarkIceAssets_26: 8667593944631730469
+      Cave-DarkIceAssets_27: -7362934849406292182
+      Cave-DarkIceAssets_28: -8964485204339901170
+      Cave-DarkIceAssets_29: -3388764976828437137
+      Cave-DarkIceAssets_3: -139966587684633242
+      Cave-DarkIceAssets_30: 4392806802006441393
+      Cave-DarkIceAssets_31: 4358262498871924166
+      Cave-DarkIceAssets_32: -2693723004469900337
+      Cave-DarkIceAssets_33: 8445368060735015740
+      Cave-DarkIceAssets_34: -7781681010675458193
+      Cave-DarkIceAssets_35: 5721415627286630962
+      Cave-DarkIceAssets_36: 8589321159370011810
+      Cave-DarkIceAssets_37: 4424387198272584800
+      Cave-DarkIceAssets_38: -755154879933063236
+      Cave-DarkIceAssets_39: -8999251126756509721
+      Cave-DarkIceAssets_4: 4466925461394737762
+      Cave-DarkIceAssets_40: 1192806409920372580
+      Cave-DarkIceAssets_41: -8881980533333550924
+      Cave-DarkIceAssets_42: 6831499134951266550
+      Cave-DarkIceAssets_43: 8798544570181405689
+      Cave-DarkIceAssets_44: -5666816903651918359
+      Cave-DarkIceAssets_45: 4315793900609944956
+      Cave-DarkIceAssets_46: -2245160863654060674
+      Cave-DarkIceAssets_47: -6422842499571858100
+      Cave-DarkIceAssets_48: 2186539083022893095
+      Cave-DarkIceAssets_49: 4600343977221376125
+      Cave-DarkIceAssets_5: 3974683641709458224
+      Cave-DarkIceAssets_50: -2358464617658037286
+      Cave-DarkIceAssets_51: -2648711284860270308
+      Cave-DarkIceAssets_52: 8532780599778085478
+      Cave-DarkIceAssets_53: 1105069155810587591
+      Cave-DarkIceAssets_54: -9208570481597658723
+      Cave-DarkIceAssets_55: -5790998186486137496
+      Cave-DarkIceAssets_56: 2185977998803206644
+      Cave-DarkIceAssets_57: 8160948266738354165
+      Cave-DarkIceAssets_58: 5583250742451357881
+      Cave-DarkIceAssets_59: 5884560510216124868
+      Cave-DarkIceAssets_6: -1033060158275065427
+      Cave-DarkIceAssets_60: 2738664583746557038
+      Cave-DarkIceAssets_61: -8738290279408740492
+      Cave-DarkIceAssets_62: 659835240622555496
+      Cave-DarkIceAssets_63: -7192322772810537004
+      Cave-DarkIceAssets_64: -1787935870663501650
+      Cave-DarkIceAssets_65: -8188655163878283140
+      Cave-DarkIceAssets_66: 6995077510175780607
+      Cave-DarkIceAssets_67: -2743125845803442457
+      Cave-DarkIceAssets_68: -5378096637251153283
+      Cave-DarkIceAssets_69: -9049440030584848771
+      Cave-DarkIceAssets_7: -2417809743142483928
+      Cave-DarkIceAssets_70: -8462254573223109616
+      Cave-DarkIceAssets_71: 6344050591429731343
+      Cave-DarkIceAssets_72: 968504378384914936
+      Cave-DarkIceAssets_73: -2039279284077988018
+      Cave-DarkIceAssets_74: 168347509668884647
+      Cave-DarkIceAssets_75: -2792970456629425274
+      Cave-DarkIceAssets_76: 5683521431260223351
+      Cave-DarkIceAssets_77: 2871598784885191270
+      Cave-DarkIceAssets_78: 6570584075142953832
+      Cave-DarkIceAssets_79: -5533745826571583767
+      Cave-DarkIceAssets_8: 2569455986759079204
+      Cave-DarkIceAssets_80: 1343277646436152300
+      Cave-DarkIceAssets_81: 3870479596730264526
+      Cave-DarkIceAssets_82: -3544598041345623865
+      Cave-DarkIceAssets_83: 3737099311880096459
+      Cave-DarkIceAssets_84: 4106025063255322009
+      Cave-DarkIceAssets_85: -6738898597183776425
+      Cave-DarkIceAssets_86: 8148323483340430476
+      Cave-DarkIceAssets_87: 2491535414932358199
+      Cave-DarkIceAssets_88: -5772196195138498825
+      Cave-DarkIceAssets_89: -897657873608179539
+      Cave-DarkIceAssets_9: -4697751641264445799
+      Cave-DarkIceAssets_90: -7973911050491311863
+      Cave-DarkIceAssets_91: 6997236902182902844
+      Cave-DarkIceAssets_92: -6334886514862315922
+      Cave-DarkIceAssets_93: -6328624269153153927
+      Cave-DarkIceAssets_94: 491800552418934592
+      Cave-DarkIceAssets_95: -8087555625805156165
+      Cave-DarkIceAssets_96: 4901840775376818052
+      Cave-DarkIceAssets_97: 8312626548497116458
+      Cave-DarkIceAssets_98: 7643313933128852977
+      Cave-DarkIceAssets_99: 3389069546395487396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
